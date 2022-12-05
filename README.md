@@ -7,3 +7,5 @@ I AM ADDING TEXT TO REPO B my amazing repo on which I didn't waste 30 minutes to
 I hate linux
 
 CHANGES PART 7
+
+PART 8
